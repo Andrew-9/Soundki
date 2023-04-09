@@ -32,8 +32,8 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 <br />
 <p align="center">
   <a>
+    <img src="https://media.discordapp.net/attachments/925380973045121044/1094620518415609957/banner.jpg?width=817&height=588">
     <img src="https://media.discordapp.net/attachments/925380973045121044/1094619738325385236/play1.png?width=975&height=588">
-     <img src="https://media.discordapp.net/attachments/925380973045121044/1094620518415609957/banner.jpg?width=817&height=588">
   </a>
 </p>
 
